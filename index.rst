@@ -10,8 +10,7 @@ Contents:
 
 .. toctree::
    :maxdepth: 2
-
-
+   
 
 Indices and tables
 ==================
@@ -19,4 +18,8 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
+
+   Book 1
+   
+   Book 2
 

@@ -1,1 +1,1 @@
-Search.setIndex({envversion:46,terms:{content:0,pencarian:0,halaman:0,indek:0,modul:0},objtypes:{},objnames:{},filenames:["index"],titles:["Welcome to Odoo Indonesia&#8217;s documentation!"],objects:{},titleterms:{welcom:0,indonesia:0,odoo:0,indic:0,tabl:0,document:0}})
+Search.setIndex({envversion:46,terms:{modul:0,content:0,indek:0,book:0,pencarian:0,halaman:0},objtypes:{},objnames:{},filenames:["index"],titles:["Welcome to Odoo Indonesia&#8217;s documentation!"],objects:{},titleterms:{welcom:0,indonesia:0,odoo:0,indic:0,tabl:0,document:0}})
